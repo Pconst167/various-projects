@@ -1,0 +1,15 @@
+Small C v1.1 for CP/M-86
+------------------------
+
+To unpack the C86.LBR at the DR-DOS/ MS-DOS command line:
+
+cfx /d c86 
+
+The *.lbr is CFX's default file extension, it handles 
+many classic CP/M and some DOS based compression formats.   
+
+
+Notes: The CFX program is shareware, see CFX.DOC
+
+
+
